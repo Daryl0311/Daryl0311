@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me through email
+- 📫 reach me through email amankhan44710@gmail.com
 
 <!---
 Daryl0311/Daryl0311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
